@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "ca.andydbc.unity-texture-packer": {
+      "version": "file:C:/Users/icena/Downloads/unity-texture-packer-master",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.cinemachine": {
       "version": "2.6.10",
       "depth": 0,
